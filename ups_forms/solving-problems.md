@@ -1,4 +1,4 @@
-# UPS Forms: Solving problems
+# Solving problems with UPS Forms
 
 ## 1. Can't apply migrations
 
